@@ -1,6 +1,8 @@
 # Java-Projects
 
-A repository of my Java Programming Projects from COS 126 and COS 226 
+A repository of my Java Programming Projects from COS 126 and COS 226. 
+
+Each program contained within has been written by Rishi Ghia. Assignment/project files along with the provided inputs can be found at the Course Links provided below. 
 
 These courses have been completed following the websites stated below as a mode of instruction: 
 COS 126: https://www.cs.princeton.edu/courses/archive/spring20/cos126/syllabus.html
